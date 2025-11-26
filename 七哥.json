@@ -13,6 +13,16 @@
             "order_num": 1,
             "ext": ""
         },{
+            "key": "51爆料",
+            "name": "51爆料",
+            "type": 3,
+            "api": "./py/51爆料.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 1,
+            "ext": ""
+        },{
             "key": "黄色仓库.py",
             "name": "黄色仓库",
             "type": 3,
